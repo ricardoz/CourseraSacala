@@ -1,0 +1,5 @@
+package hamming
+
+trait Core {
+	
+}
